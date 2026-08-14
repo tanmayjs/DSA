@@ -10,12 +10,13 @@ int main()
     int n = sizeof(b) / 4;
     int c[m + n];
     int i = 0, j = 0, k = 0;
-    while(){
-        if(a[i]< b[j]){
-            c[k] =a[i];
+    while ()
+    {
+        if (a[i] < b[j])
+        {
+            c[k] = a[i];
             i++;
             k++;
-        
         }
     }
 }
