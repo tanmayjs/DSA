@@ -19,7 +19,7 @@ int main()
             k++;
         }
         else if(a[i] < b[j]){
-            c[k] = a[i];
+            c[k] = b[i];
         }
     }
 }
