@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {   
     // int arr[3][4];
-    int arr[][]
+    int arr[][] = {{5,8,1,2},{}}
 }
