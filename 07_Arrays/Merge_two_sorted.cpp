@@ -21,6 +21,6 @@ int main()
             c[k++] = b[j++];
     }
     for(int i = 0; i<m+n;i++){
-        cout<<
+        cout<<c[i]<<
     }
 }
