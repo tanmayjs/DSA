@@ -13,8 +13,9 @@ int main()
         for (int j = 0; j < 4; j++)
         {
             cout << arr[i][j] << " ";
-            sum += arr[i]
+            sum += arr[i][j];
         }
         cout << endl;
     }
+    cout<<sum<<
 }
