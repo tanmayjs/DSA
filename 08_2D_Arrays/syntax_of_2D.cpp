@@ -7,6 +7,7 @@ int main()
     // int arr[3][4];
     int sum =0;
     int arr[][4] = {{5,8,1,2},{9,9,4,4},{7,0,3,5}};
+<<<<<<< HEAD
     
     for(int j = 0;j<4;j++){
         for(int i=0;i<3;i++){
@@ -26,3 +27,7 @@ int main()
 //         cout<<endl;
 //     }
 // 
+=======
+hi
+}
+>>>>>>> origin/main
