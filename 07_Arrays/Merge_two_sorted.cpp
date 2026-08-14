@@ -12,7 +12,10 @@ int main()
     int i = 0, j = 0, k = 0;
     while(){
         if(a[i]< b[j]){
-            c[k] =a[i]
+            c[k] =a[i];
+            i++;
+            k++;
+        
         }
     }
 }
