@@ -8,5 +8,5 @@ int main()
     int b[] = {30, 50, 60, 80};
     int m = sizeof(a)/4;
     int n = sizeof(b)/4;
-    
+    intc[m+n] 
 }
