@@ -15,13 +15,10 @@ int main()
         if (a[i] < b[j])
         {
             c[k++] = a[i++];
-            
-            
         }
-        else 
-        {   //b[j]< a[i]
+        else
+        {// b[j]< a[i]
             c[k++] = b[j++];
-            
         }
     }
 }
