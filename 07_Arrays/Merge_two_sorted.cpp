@@ -26,7 +26,7 @@ int main()
             c[k++] = b[j++];
     }
     else{
-        while(j)
+        while(j<m)
     }
     for (int i = 0; i < m + n; i++)
     {
