@@ -20,14 +20,13 @@ int main()
             // b[j]< a[i]
             c[k++] = b[j++];
     }
-    
-        while (j < n)
-            c[k++] = b[j++];
-    
-   
-        while (j < m)
-            c[k++] = a[i++];
-    
+
+    while (j < n)
+        c[k++] = b[j++];
+
+    while (j < m)
+        c[k++] = a[i++];
+
     for (int i = 0; i < m + n; i++)
     {
         cout << c[i] << " ";
