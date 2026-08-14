@@ -10,7 +10,7 @@ int main()
     int n = sizeof(b) / 4;
     int c[m + n];
     int i = 0, j = 0, k = 0;
-    while (i<m && j<n)
+    while (i < m && j < n)
     {
         if (a[i] < b[j])
         {
@@ -18,7 +18,8 @@ int main()
             i++;
             k++;
         }
-        else if(a[i] < b[j]){
+        else if (a[i] < b[j])
+        {
             c[k] = b[j];
             j++;
             k++;
