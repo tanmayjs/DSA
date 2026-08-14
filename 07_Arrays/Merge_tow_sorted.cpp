@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-    int a[]= {10,20,40,70,90,100}
+    int a[]= {10,20,40,70,90,100};
+    int b[]={}
 }
