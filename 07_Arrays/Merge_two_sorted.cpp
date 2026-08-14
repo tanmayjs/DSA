@@ -25,7 +25,7 @@ int main()
         while (j < n)
             c[k++] = b[j++];
     }
-    if(j ==)
+    
     for (int i = 0; i < m + n; i++)
     {
         cout << c[i] << " ";
