@@ -6,5 +6,6 @@ int main()
 {
     int a[] = {10, 20, 40, 70, 90, 100};
     int b[] = {30, 50, 60, 80};
-    int m = sizeof(a)
+    int m = sizeof(a)/4;
+    int n = sizeof(b)/4
 }
