@@ -20,6 +20,8 @@ int main()
         }
         else if(a[i] < b[j]){
             c[k] = b[j];
+            j++;
+            k++;
         }
     }
 }
