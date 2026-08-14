@@ -18,5 +18,6 @@ int main()
             i++;
             k++;
         }
+        else
     }
 }
