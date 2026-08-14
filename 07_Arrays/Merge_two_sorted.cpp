@@ -18,7 +18,7 @@ int main()
             i++;
             k++;
         }
-        else if (a[i] < b[j])
+        else 
         {
             c[k] = b[j];
             j++;
