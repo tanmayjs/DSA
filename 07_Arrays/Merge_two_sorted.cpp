@@ -18,6 +18,6 @@ int main()
             i++;
             k++;
         }
-        else()
+        else(a[i] < b[j])
     }
 }
