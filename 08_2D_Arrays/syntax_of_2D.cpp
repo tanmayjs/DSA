@@ -3,5 +3,5 @@
 using namespace std;
 
 int main()
-{   intarr[3]
+{   int arr[3][]
 }
