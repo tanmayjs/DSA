@@ -20,9 +20,8 @@ int main()
         }
         else 
         {   //b[j]< a[i]
-            c[k] = b[j];
-            j++;
-            k++;
+            c[k++] = b[j++];
+            
         }
     }
 }
