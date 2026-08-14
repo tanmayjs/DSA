@@ -20,7 +20,9 @@ int main()
             // b[j]< a[i]
             c[k++] = b[j++];
     }
-    
+    if(i==m){
+        
+    }
     for (int i = 0; i < m + n; i++)
     {
         cout << c[i] << " ";
