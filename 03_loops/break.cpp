@@ -9,6 +9,8 @@ int main()
             continue;
         cout << i << " ";
         // if (i == 5)break;
+        //Tanmay
         
     }
+    cout<<"Tanmay ";
 }
