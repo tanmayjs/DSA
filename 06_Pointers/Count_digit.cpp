@@ -12,5 +12,5 @@ int main()
         n /= 10;
     }
     cout << count;
-    
+
 }
