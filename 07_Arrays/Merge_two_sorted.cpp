@@ -11,6 +11,8 @@ int main()
     int c[m + n];
     int i = 0, j = 0, k = 0;
     while(){
-        if(a[i]< b[j])
+        if(a[i]< b[j]){
+            c[k]
+        }
     }
 }
