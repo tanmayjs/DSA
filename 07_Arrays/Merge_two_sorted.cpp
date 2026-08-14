@@ -25,8 +25,10 @@ int main()
         while (j < n)
             c[k++] = b[j++];
     }
-    else{
-        while(j<m)
+    else
+    {
+        while (j < m)
+            c[k++] = a[i++];
     }
     for (int i = 0; i < m + n; i++)
     {
