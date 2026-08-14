@@ -19,7 +19,7 @@ int main()
             k++;
         }
         else 
-        {   
+        {   //
             c[k] = b[j];
             j++;
             k++;
