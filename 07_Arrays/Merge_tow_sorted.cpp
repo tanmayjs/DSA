@@ -9,5 +9,5 @@ int main()
     int m = sizeof(a) / 4;
     int n = sizeof(b) / 4;
     int c[m + n];
-    int i
+    int i=0,j=0
 }
