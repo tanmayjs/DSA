@@ -17,8 +17,8 @@ int main()
             c[k++] = a[i++];
         }
         else
-        {// b[j]< a[i]
+        // b[j]< a[i]
             c[k++] = b[j++];
-        }
+    
     }
 }
