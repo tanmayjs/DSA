@@ -24,7 +24,7 @@ int main()
     {
         while (j < n)
             c[k++] = b[j++];
-    }
+    
     else
     {
         while (j < m)
