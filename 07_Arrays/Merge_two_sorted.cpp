@@ -21,7 +21,7 @@ int main()
             c[k++] = b[j++];
     }
     if(i==m){
-        
+        while(j<n)
     }
     for (int i = 0; i < m + n; i++)
     {
